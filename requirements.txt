@@ -1,5 +1,3 @@
-pandas==2.0.3
+pandas
 yfinance
-pandas_ta @ git+https://github.com/twopirllc/pandas-ta.git@development
 requests
-lxml
